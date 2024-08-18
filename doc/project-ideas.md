@@ -6,7 +6,7 @@ nav_order: 4
 
 # Thesis Project Ideas (2024-25)
 
-This is a list of example thesis topics -- new ideas are welcome. If you want to get a broad sense of computational network biology, please read [Current and Future Directions in Network Biology](https://arxiv.org/abs/2309.08478). 
+This is a list of example thesis topics -- new ideas are welcome. If you want to get a broad sense of computational network biology, please read [Current and Future Directions in Network Biology](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae099/7732851). 
 
 **You don't need to have computer science experience to do a computational thesis!** Some thesis students use this as an opportunity to learn new skills; others have taken deep dives into interpreting the results of current tools. I have also mentored expository/library theses, which synthesize big complex ideas, and meta-analyses, which collect data from multiple papers and statistically analyze the aggregate findings.
 
@@ -16,7 +16,8 @@ Protein-protein interaction networks have been extremely useful for identifying 
 
 1. **Integrate disease data to identify signaling pathway disruption.**  We have existing algorithms to reconstruct signaling pathways.  How do we use cancer data (or other disease data) to identify dysregulated signaling?  
 2. **Benchmark landmark papers with new methods/data.** A number of important papers in network biology have helped shape the field; however, we now have more complete datasets and different tools to apply to the problems. Do the findings of these landmark papers hold up in light of new information and methodologies?
-3. **Investigate pathways involved in cell-cell fusion.** Cells fuse together as part of fundamental processes, yet we still don't know all of the proteins that regulate this process. This project will apply existing graph algorithms to study proteins that may regulate cell-cell fusion. 
+3. **Investigate pathways involved in cell-cell fusion.** Cells fuse together as part of fundamental processes, yet we still don't know all of the proteins that regulate this process. This project will apply existing graph algorithms to study proteins that may regulate cell-cell fusion. (Collaboration with Derek Applewhite)
+4. **Investigate regulators of manganese transport.** Maintaining a proper balance of metal ions is an extremely important cellular process. We have done some work to identify how manganese is regulated within bacterial cells through a combination of transcription factor binding motifs, network analysis, and transcriptomic analysis. Tommy Yoon '24 most recently worked on this project in the summer of 2023 and [wrote about it here](https://blogs.reed.edu/compbio/2023/10/19/finding-manganese-homeostasis-proteins/). Can we integrate these datasets to better understand potential proteins and mechanisms of regulation in *Bacillus subtillis*. (Collaboration with Shivani Ahuja).
 
 ## Adding Context to PPI Networks
 
