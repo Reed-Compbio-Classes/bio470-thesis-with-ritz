@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DRAFT Bio470 Ritz
+title: Bio470 Ritz
 description: Thesis with Anna Ritz
 theme: just-the-docs
 url: "https://reed-compbio-classes.github.io/bio470-thesis-with-ritz/"
@@ -90,7 +90,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Ritz Website": https://www.reed.edu/biology/ritz/
+  "Dept Moodle Page": https://moodle.reed.edu/course/view.php?id=5598
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -101,8 +101,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 #nav_external_links:
-#  - title: S24 Moodle
-#    url: https://moodle.reed.edu/course/view.php?id=5287
+  - title: Dept Moodle Page
+    url: https://moodle.reed.edu/course/view.php?id=5598
 
 # Footer content
 # appears at the bottom of every page's main content
