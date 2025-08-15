@@ -1,0 +1,15 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"           # looks in .github/workflows
+    schedule:
+      interval: "weekly"     # or daily/monthly
+    labels: ["deps", "ci"]
+    open-pull-requests-limit: 10
+    commit-message:
+      prefix: "deps(actions)"
+    # Optional: auto-merge patch/minor bumps only
+    # enable these if you use branch protection rules that allow it
+    # pull-request-branch-name:
+    #   separator: "-"
+    # rebase-strategy: "auto"
