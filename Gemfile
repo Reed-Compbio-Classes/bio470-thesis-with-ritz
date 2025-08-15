@@ -4,8 +4,9 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-include-cache"
   gem "jekyll-relative-links"
+  gem "jekyll-seo-tag"
   # gem "jekyll-feed"
-  # gem "jekyll-seo-tag"
+  
 end
 
 group :development do
