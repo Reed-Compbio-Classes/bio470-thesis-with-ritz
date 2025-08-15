@@ -18,7 +18,7 @@ We will also have time set aside for individual meetings with each thesis studen
 
 ## Communication & Technology
 
-Official communications about thesis deadlines and oral examinations will come from the Office of the Registrar and the Biology Department emails.  These will also be posted on the [2024-25 Thesis Moodle page](https://moodle.reed.edu/course/view.php?id=5598). 
+Official communications about thesis deadlines and oral examinations will come from the Office of the Registrar and the Biology Department emails.  These will also be posted on the Dept Moodle Page.
 
 All thesis students will join the CompBio Slack channel, and we will have informal communication through Slack. The **required logistics for a thesis project** are that:
 1. You use the [Reed Thesis template](https://www.reed.edu/cis/help/thesis/index.html).
@@ -50,9 +50,6 @@ If you have any questions, ask me.
 
 As your thesis advisor, one of my jobs is also to put you in touch with others who can support you through the thesis process. One of the most important groups are your peers doing thesis alongside you! The other computational biology thesis students (and other thesis students in general) can be a wonderful resource. 
 
-### Postbac Mentors
-This year, we are lucky to have two post-bac researchers working in the compbio lab: Oliver Anderson and Altaf Barelvi. They will attend our group meetings to learn about your thesis project, and they will be available to meet with you during the year for help. 
-
 ### Thesis Funding and Borrowing Equipment
 Computational thesis projects rarely need a budget for supplies.  However, several possible sources of funding exist for thesis project supplies, the main mechanism being the [Biology Undergraduate Research Project (BURP)](https://www.reed.edu/biology/theses/thesis-funding.html) grants to support thesis work offered through the Biology Department. BURP grants may fund licenses for software (e.g. Matlab) or access to databases if they are not publicly available.
 
@@ -64,7 +61,7 @@ The Help Desk will hold drop-in thesis formatting hours, resources for templates
 
 
 ## Academic Accommodations
-Thesis is a course, and like all Reed courses I have a commitment to accommodating any documented needs you may have.  Please discuss any documented accommodations with me, especially those that affect one or more of the three-part evaluation for thesis.  Please let me know if there are useful supplements to thesis meetings (videos, large-font texts, captioning, etc.).  Disability Accommodation Notification Letters can be obtained from [Disability \& Accessibility Resources (DAR)](https://www.reed.edu/disability-resources/).  All discussions will remain confidential.  
+Thesis is a course, and like all Reed courses I have a commitment to accommodating any documented needs you may have.  Please discuss any documented accommodations with me, especially those that affect one or more of the three-part evaluation for thesis.  Please let me know if there are useful supplements to thesis meetings (videos, large-font texts, captioning, etc.).  Disability Accommodation Notification Letters can be obtained from [Disability & Accessibility Resources (DAR)](https://www.reed.edu/disability-resources/).  All discussions will remain confidential.  
 
 ### Disruptions to the Academic Year
 Many students will have personal circumstances that may affect their performance this year.  In fact, it is likely that we *all* have been and will be deeply affected by events locally, nationally, and globally.
