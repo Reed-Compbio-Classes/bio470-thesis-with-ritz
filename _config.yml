@@ -16,12 +16,10 @@
 
 title: "Bio470 Ritz"
 description: "Thesis with Anna Ritz"
-theme: just-the-docs
+#theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 url: "https://reed-compbio-classes.github.io/bio470-thesis-with-ritz/"
 baseurl: "" # the subpath of your site, e.g. /blog
-
-#title: Just the Docs
-#description: A Jekyll theme for documentation
 
 #url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
 #repository: just-the-docs/just-the-docs # for github-metadata
@@ -115,7 +113,8 @@ back_to_top_text: "Back to top"
 footer_content: "Copyright &copy; 2024 Anna Ritz. Distributed by an <a href=\"https://github.com/Reed-Compbio-Classes/bio470-thesis-with-ritz/blob/main/LICENSE\">MIT license.</a>"
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
+  - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-relative-links
+  # - jekyll-feed
+  # - jekyll-seo-tag
