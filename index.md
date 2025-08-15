@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # Bio470: Thesis with Anna Ritz
-_Last Updated September 2025 for students starting thesis in Fall 2024 or Spring 2025. Note that the details in this syllabus pertain only to students mentored by Anna Ritz; other faculty might have different guidance and requirements for thesis._
+_Last updated August 2025._
 
 The CompBio lab uses computational tools to analyze patterns in large biological datasets; this can take thesis projects in a multitude of directions.  While a programming background is useful for some projects, other topics require no previous computer science experience (though you might learn some along the way). My main research uses molecular interaction networks, represented as graphs, to study intracellular signaling pathways and the ways in which they are disrupted in disease.  Thesis projects have studied the outputs of these tools to prioritize genes that may be associated with diseases, and have developed new ways of investigating these networks.  
 
