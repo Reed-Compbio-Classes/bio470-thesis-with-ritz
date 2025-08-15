@@ -19,3 +19,21 @@ bundle lock --add-platform x86_64-linux
 ```
 
 **To get relative links:** I had to add the `jekyll-relative-links` gem to the Gemfile (this should be distributed with GitHub pages, but it didn't work with just-the-docs template).
+
+# Convert website to PDF
+
+Requires the [pandoc](https://pandoc.org/installing.html) tool.
+
+Concatenates all the files in the order that they are shown on the left-hand banner on the website. 
+
+```
+pandoc index.md \
+    doc/goals.md \
+    doc/support.md \
+    doc/policies.md \
+    doc/assessment.md \ 
+    -o bio470-F24-syllabus.pdf \
+    -M title="Thesis with Ritz Fall 2024 Syllabus"
+``` 
+
+Then, move the file to `doc/archive/`.

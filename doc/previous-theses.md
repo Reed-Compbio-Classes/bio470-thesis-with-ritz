@@ -9,6 +9,9 @@ These theses are all available in the Thesis Tower in the library; a subset is a
 
 | Student | Co-Advisor | Title |
 | -- | -- | -- |
+| Jules Camden '25 | | Examining Model Robustness for Treatment Efficacy Prediction in Major Depressive Disorder | 
+| Ayah Sibai '25 |  | The Stripes of Optic Morphogenesis: Gene Expression Patterning in Zebrafish Development |
+| Soren Zapata '25 | | Untangling the Threads between Climate Change and Foodborne Disease |
 | Aliya Ghassaei '24 |  | Leveraging Comparative Graph Theory to Model Gene Co-expression Data |
 | Ainsley Norman '24 | Jeremy Coate | Seurat & Suffering: Identification of Endoreduplication Using Computational Methods in Soybean Nodules | 
 | Caroline Spiggle '24 |  | Navigating Neurodevelopmental Biology via Computational Genomics: An Accessible Perspective on ADHD & Autism |

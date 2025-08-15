@@ -17,23 +17,23 @@ Time management is crucial for a successful thesis. You will work closely with m
 | Spring Q2 | Find Papers that <br> Support/Refute Findings | Write Results & Discussion <br> Revisit All Chapters | Visualize Results | 
 
 
-## Deadlines (Fall 2024 - Spring 2025)
+## Deadlines 
 
-You will submit thesis proposals in the middle of Week 2 and be assigned thesis advisors by the beginning of Week 3; refer to the Moodle page for more information (link TBD). 
+You will submit thesis proposals in the middle of Week 2 and be assigned thesis advisors by the beginning of Week 3; refer to the Moodle page for more information. We will start from these working set of deadlines. Deadlines may shift and they may be tailored to each project. We will also have smaller milestones for group meeting activities.
 
-We will start from these working set of deadlines for students starting thesis in the Fall of 2024. Deadlines may shift and they may be tailored to each project. We will also have smaller milestones for group meeting activities.
+_If you are starting thesis in Spring, swap "Fall" and "Spring" in the table below._
 
 | Deadline | Milestone | Description | 
 | -- | -- | -- |
-| Fall Week 4 (9/27) | Research Question | A document describing (a) a brief introduction to the topic, (b) the research question, and (c) why the question is important to study. Include at least two citations. |
-| Fall Week  7 (10/18) <br> *Fall Break* | Annotated Bibliography | A document with a list of at least ten papers that are relevant to your project. For each paper, write one paragraph that (a) summarizes the main contributions of the paper and (b) explains why the paper is relevant to your question. |
-| Fall Week 11 (11/22) | Methods Outline <br> & Updated Bibliography | An updated annotated bibliography with at least 15 papers and a document with a brief description of your methods. The methods outline can take many forms - it can be a list of steps you plan to do, pseudocode for existing or new methods, or instructions for running a tool. |
-| Fall Week 14 (12/11) <br> *Winter Break* | Reflection | A document that describes (a) your current progress in thesis, (b) your planned progress for spring semester, and (c) your immediate next steps. Be sure to address your progress in **writing**, your progress in **reading**, and your progress in **experiments/analysis**. This is an opportunity to re-evaluate the thesis question or goal, and adjust if necessary.  |
+| Fall Week 4 | Research Question | A document describing (a) a brief introduction to the topic, (b) the research question, and (c) why the question is important to study. Include at least two citations. |
+| Fall Week  7 | Annotated Bibliography | A document with a list of at least ten papers that are relevant to your project. For each paper, write one paragraph that (a) summarizes the main contributions of the paper and (b) explains why the paper is relevant to your question. |
+| Fall Week 11  | Methods Outline <br> & Updated Bibliography | An updated annotated bibliography with at least 15 papers and a document with a brief description of your methods. The methods outline can take many forms - it can be a list of steps you plan to do, pseudocode for existing or new methods, or instructions for running a tool. |
+| Fall Week 14 | Reflection | A document that describes (a) your current progress in thesis, (b) your planned progress for spring semester, and (c) your immediate next steps. Be sure to address your progress in **writing**, your progress in **reading**, and your progress in **experiments/analysis**. This is an opportunity to re-evaluate the thesis question or goal, and adjust if necessary.  |
 | |
-| Spring Week 4 (2/21) | Background & Methods Chapters in Thesis Template | **Move all of your existing drafts to one of the [thesis templates](https://www.reed.edu/it/help/thesis/#template).** Your thesis should have complete Background & Methods chapter drafts and ideally an outline of your results chapter. |
-| Spring Week 8 (3/21) <br> *Spring Break* | Results & Discussion Outlines/Drafts | Outline your results in the thesis template, and add any results you currently have. Outline the main points you want to discuss in your Discussion chapter. | 
-| Spring Week 11 (4/18) | Full Draft | Your thesis draft should have full drafts of all chapters. **This is the deadline to guarantee Anna's feedback - any writing after this date might not get edited.** |
-| Spring Week 13 (5/2) | Thesis Due | Submit your approved thesis to the registrar before 3pm. | 
+| Spring Week 4 | Background & Methods Chapters in Thesis Template | **Move all of your existing drafts to one of the [thesis templates](https://www.reed.edu/it/help/thesis/#template).** Your thesis should have complete Background & Methods chapter drafts and ideally an outline of your results chapter. |
+| Spring Week 8  | Results & Discussion Outlines/Drafts | Outline your results in the thesis template, and add any results you currently have. Outline the main points you want to discuss in your Discussion chapter. | 
+| Spring Week 11 | Full Draft | Your thesis draft should have full drafts of all chapters. **This is the deadline to guarantee Anna's feedback - any writing submitted after this week might not get reviewed.** |
+| Spring Week 14 | Thesis Due | Submit your approved thesis to the registrar before 3pm. | 
 
 
 ## Feedback

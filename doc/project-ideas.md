@@ -4,7 +4,7 @@ layout: default
 nav_order: 4
 ---
 
-# Thesis Project Ideas (2024-25)
+# Thesis Project Ideas (2025-26)
 
 This is a list of example thesis topics -- new ideas are welcome. If you want to get a broad sense of computational network biology, please read [Current and Future Directions in Network Biology](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae099/7732851). 
 
@@ -27,13 +27,15 @@ We have recently done work to help researchers explore molecular networks, and p
 2. **Investigate the biological meaning behind network motifs.**  Motifs are small subgraphs that can be found within larger networks. We have found that [signaling pathways](https://psb.stanford.edu/psb-online/proceedings/psb22/rubel.pdf) and [disease modules](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad140/7288932) are enriched for certain subgraphs. More recently, we've categorized motifs that are comprised of both physical and regulatory interactions within ProteinWeaver. Do these enriched patterns have any biological interpretation? 
 3. **Evaluate physical, regulatory, and combined interactions for protein context across taxa.** ProteinWeaver's network can be used as a PPI network, a gene regulatory network, or a combination of physical and regulatory interactions. How do these three networks affect the interpretation for a protein's relevance, and how does this change for different species?
 
-
 ## Graphs and Graph Generalizations
 Some of these topics may be good for someone who has taken multiple CS courses.
 
 1. **Define a mathematical objective function for signaling pathway reconstruction.** Many algorithms for signaling pathway reconstruction do not directly optimize a function of the graph; and those that do are missing a parameter to increase the size of the subnetwork. [We have developed a first attempt](https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0376)  to define an objective function for signaling pathway reconstruction ([preprint](https://www.biorxiv.org/content/10.1101/2022.07.27.501737v3)), but can we improve it?
 2. **Random walks on directed hypergraphs.** We have done work to develop [shortest path](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5810418/) and [connectivity algorithms](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007384) on directed hypergraphs (where edges can capture many-to-many relationships). Random walks are useful for identifying node relevance within a graph structure; can we apply them to directed hypergraphs (where an edge captures many-to-many relationships)?  
 3. **Applications for directed hypergraphs.** Directed hypergraphs have been useful for [signaling pathway representations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299695/), and they hold promise for other biological networks. This would be an excellent survey of potential use cases for hypergraphs and other graph generalizations for computational biology. 
+
+## Graphs to Model Patterning in Cell Images
+I am beginning work in the area of using graphs and graph-like representations to model cell movement and patterning in images of the developing zebrafish retina. Want to get in the ground with a brand-new project? Talk with me about it. (Collaboration with Kara Cerveny; Developmental Biology course recommended co-requisite).
 
 ## Other Types of Biological Networks
 
