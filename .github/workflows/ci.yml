@@ -37,7 +37,7 @@ jobs:
 
       # Optional: attach the built site to the CI run for inspection
       - name: Upload site artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: _site
           path: _site
