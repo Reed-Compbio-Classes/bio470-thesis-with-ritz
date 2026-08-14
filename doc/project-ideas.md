@@ -10,7 +10,7 @@ This is a list of example thesis topics -- new ideas are welcome. If you want to
 
 **You don't need to have computer science experience to do a computational thesis!** Some thesis students use this as an opportunity to learn new skills; others have taken deep dives into interpreting the results of current tools. I have also mentored expository/library theses, which synthesize big complex ideas, and meta-analyses, which collect data from multiple papers and statistically analyze the aggregate findings.
 
-## Graphs to Model Patterning in Cell Images
+## Graph Modeling in Computational Image Analysis
 I am beginning work in the area of using graphs and graph-like representations to model cell movement and patterning in images of the developing zebrafish retina. This research direction is in collaboration with Kara Cerveny - if you are interested in generating your own images through wetlab experiments, make sure you speak with Kara as well.
 
 1. **Characterize space-time patterning of _atoh7_ expression in the developing zebrafish retina.** _atoh7_ is an important developmental gene that signals the formation of retinal ganglion cells in the developing zebrafish eye. The Cerveny lab has two movies of the "wave" of expression in the eye, and the datasts have been used for recent STATS241 courses. One direction would be to make new movies and see if the models developed in the statistics courses accurately capture the wave; or can predict disruption of the wave in mutants. Another direction is to take a different modeling approach - segmenting cells and using network-based modeling - to describe the patterning.
