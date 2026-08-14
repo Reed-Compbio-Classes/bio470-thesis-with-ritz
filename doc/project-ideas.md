@@ -4,11 +4,19 @@ layout: default
 nav_order: 4
 ---
 
-# Thesis Project Ideas (2025-26)
+# Thesis Project Ideas (2026-27)
 
 This is a list of example thesis topics -- new ideas are welcome. If you want to get a broad sense of computational network biology, please read [Current and Future Directions in Network Biology](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae099/7732851). 
 
 **You don't need to have computer science experience to do a computational thesis!** Some thesis students use this as an opportunity to learn new skills; others have taken deep dives into interpreting the results of current tools. I have also mentored expository/library theses, which synthesize big complex ideas, and meta-analyses, which collect data from multiple papers and statistically analyze the aggregate findings.
+
+## Graphs to Model Patterning in Cell Images
+I am beginning work in the area of using graphs and graph-like representations to model cell movement and patterning in images of the developing zebrafish retina. This research direction is in collaboration with Kara Cerveny - if you are interested in generating your own images through wetlab experiments, make sure you speak with Kara as well.
+
+1. **Characterize space-time patterning of _atoh7_ expression in the developing zebrafish retina.** _atoh7_ is an important developmental gene that signals the formation of retinal ganglion cells in the developing zebrafish eye. The Cerveny lab has two movies of the "wave" of expression in the eye, and the datasts have been used for recent STATS241 courses. One direction would be to make new movies and see if the models developed in the statistics courses accurately capture the wave; or can predict disruption of the wave in mutants. Another direction is to take a different modeling approach - segmenting cells and using network-based modeling - to describe the patterning.
+2. **Develop network-based models of tissues in zebrafish development.** Using publicly available data on [ZebraHub](https://zebrahub.sf.czbiohub.org/imaging), can we build cell-cell networks of a static 3D image? This project could investigate the tools (image segmentation tools, segmentation-to-graph tools), or it could focus on the algorithmic questions about what structural properties the models capture.
+3.**Model patterning over time with dynamic graph algorithms.** This project would involve generating simulated datasets showing cell movement, growth, or differentiation and building network-based models to capture simple patterns.
+4. **Any ideas are welcome at this early stage in the research!** If you are familiar with imaging from other classes (e.g., Derek Applewhite's cell biology course), those are excellent applications of computational image analysis as well. 
 
 ## PPI Networks and Signaling Pathways
 
@@ -23,7 +31,7 @@ Protein-protein interaction networks have been extremely useful for identifying 
 
 We have recently done work to help researchers explore molecular networks, and provided additional information to place their questions in the context of physical and regulatory interactions. These projects are inspired by [ProteinWeaver](https://proteinweaver.reedcompbio.org/), a network visualization tool developed by post-bacs in the group. 
 
-1. **Predict protein function from the Gene Ontology.** The Gene Ontology is a categorization of all protein function we know of; however, it is not complete. ProteinWeaver has connected the Gene Ontology to physical and regulatory interactions among proteins, and we have an initial method to predict a protein's function from this information. Can we add additional context (such as protein domain information, sequence similarity, predictd 3D structure) to improve these predictions? 
+1. **Predict protein function from the Gene Ontology.** The Gene Ontology is a categorization of all protein function we know of; however, it is not complete. ProteinWeaver has connected the Gene Ontology to physical and regulatory interactions among proteins, and we have an initial method to predict a protein's function from this information. Can we add additional context (such as protein domain information, sequence similarity, predicted 3D structure) to improve these predictions? 
 2. **Investigate the biological meaning behind network motifs.**  Motifs are small subgraphs that can be found within larger networks. We have found that [signaling pathways](https://psb.stanford.edu/psb-online/proceedings/psb22/rubel.pdf) and [disease modules](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad140/7288932) are enriched for certain subgraphs. More recently, we've categorized motifs that are comprised of both physical and regulatory interactions within ProteinWeaver. Do these enriched patterns have any biological interpretation? 
 3. **Evaluate physical, regulatory, and combined interactions for protein context across taxa.** ProteinWeaver's network can be used as a PPI network, a gene regulatory network, or a combination of physical and regulatory interactions. How do these three networks affect the interpretation for a protein's relevance, and how does this change for different species?
 
@@ -33,9 +41,6 @@ Some of these topics may be good for someone who has taken multiple CS courses.
 1. **Define a mathematical objective function for signaling pathway reconstruction.** Many algorithms for signaling pathway reconstruction do not directly optimize a function of the graph; and those that do are missing a parameter to increase the size of the subnetwork. [We have developed a first attempt](https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0376)  to define an objective function for signaling pathway reconstruction ([preprint](https://www.biorxiv.org/content/10.1101/2022.07.27.501737v3)), but can we improve it?
 2. **Random walks on directed hypergraphs.** We have done work to develop [shortest path](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5810418/) and [connectivity algorithms](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007384) on directed hypergraphs (where edges can capture many-to-many relationships). Random walks are useful for identifying node relevance within a graph structure; can we apply them to directed hypergraphs (where an edge captures many-to-many relationships)?  
 3. **Applications for directed hypergraphs.** Directed hypergraphs have been useful for [signaling pathway representations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299695/), and they hold promise for other biological networks. This would be an excellent survey of potential use cases for hypergraphs and other graph generalizations for computational biology. 
-
-## Graphs to Model Patterning in Cell Images
-I am beginning work in the area of using graphs and graph-like representations to model cell movement and patterning in images of the developing zebrafish retina. Want to get in the ground with a brand-new project? Talk with me about it. (Collaboration with Kara Cerveny; Developmental Biology course recommended co-requisite).
 
 ## Other Types of Biological Networks
 
