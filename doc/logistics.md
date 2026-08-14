@@ -1,10 +1,10 @@
 ---
-title: Logistics & Support
+title: Logistics, Support, & Inclusion
 layout: default
 nav_order: 1
 ---
 
-# Thesis Logistics & Support 
+# Thesis Logistics, Support & Inclusion
 
 ## Meetings
 
@@ -29,22 +29,6 @@ All thesis students will join the CompBio Slack channel, and we will have inform
 When considering other technology you will use, my rule of thumb is to follow a path of least resistance.  This may mean writing programs in a language you are familiar with (e.g. R, Python,...), generating figures with software that you are familiar with (e.g., R, Python, JMP, Excel,...), and using a text editor that you are familiar with (e.g. Word, LaTeX,...). This is a great time to learn something new, and if you explicitly want to learn a new technology or programming language, we will work that into the goals of your thesis.  Keep in mind, though, that if you deviate far from your advisors' expertise, we have limited means to help you.
 
 I strongly suggest using **GitHub** to maintain any code you will write as part of your thesis. You can make a private repository and add me as a collaborator - this will help with code reviews and helping with bugs.
-
-### Use of generative AI
-
-Generative AI is technology that is trained to generate text, images, or code from natural language prompts.  Two examples of generative AI that you might have seen before are ChatGPT (which returns text based on prompts) and GitHub Copilot (which returns code based on prompts). 
-
-Everyone must write a thesis document. This document represents _your_ work, _your_ results, and _your_ conclusions. Further, it can be written in _your_ style, which might be as formal as a scientific paper. When you write papers, you are claiming the words and the ideas within them as your own. In order to demonstrate the learning objective that you have writen a coherent document, it needs to be in your words. As a result, you may not use generative AI to compose all or part of your thesis document. Generative AI is acceptable to use to help organize your thoughts in the planning/outlining phase (you will need to acknowledge this in the thesis). You should also be using spellcheck software, though this doesn't need to be ChatGPT.
-
-**If you use generative AI for _any_ part of your thesis (even for planning/organization), this needs to be clearly acknowledged in the thesis document.**
-
-### Using others' code and tools
-
-If you use any code you found online in your own programs (such as from StackOverflow, or other sites), you must acknowledge this in your code - include the author, a brief description, and the URL. 
-
-If you use tools from other groups, you will also acknowledge these in your thesis. Typically, tools have an accompanying paper that you should cite. 
-
-If you have any questions, ask me.
 
 ## Thesis Support
 

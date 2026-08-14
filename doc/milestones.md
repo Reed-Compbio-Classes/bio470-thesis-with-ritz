@@ -1,7 +1,7 @@
 ---
 title: Milestones & Deadlines
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 
 # Milestones 
@@ -38,8 +38,8 @@ _If you are starting thesis in Spring, swap "Fall" and "Spring" in the table bel
 
 ## Feedback
 
-After submitting each milestone, you will receive feedback from me within one week in the form of edits directly on your document and, in some cases, a summary of your progress so far. 
+**After submitting each milestone, you will receive feedback from me within one week in the form of edits directly on your document and, in some cases, a summary of your progress so far.**
 
-**You can submit drafts for me to review at any time!** I will aim to get you edits within two weeks if you submit additional writing. Please send me reminders if you don't hear from me in these off-deadline editing requests.
+You can submit drafts for me to review at any time! I will aim to get you edits within two weeks if you submit additional writing. Please send me reminders if you don't hear from me in these off-deadline editing requests.
 
 As we get further into spring semester, I will focus on giving you feedback for parts that I have not read yet (rather than feedback on parts I've already edited). Note that your thesis must be approved by me before being submitted to the registrar, and I will require reviewing certain parts of the document (the Discussion, Results, etc.) before giving that approval. 

@@ -1,7 +1,7 @@
 ---
 title: Previous Theses
 layout: default
-nav_order: 3
+nav_order: 5
 ---
 
 # Previous Theses 
@@ -9,8 +9,11 @@ These theses are all available in the Thesis Tower in the library; a subset is a
 
 | Student | Co-Advisor | Title |
 | -- | -- | -- |
+| Thomas Kelly '26 | | Insights into the Lack of DID Treatment Research |
+| Marianna Tijerina '26 | | Sex Bias in the Healthy Adult Gut Microbiome | 
+| Tara Weling '26 || A Network-based Analysis of Transcriptomic Changes in Psychiatric Disorders |
 | Jules Camden '25 | | Examining Model Robustness for Treatment Efficacy Prediction in Major Depressive Disorder | 
-| Ayah Sibai '25 |  | The Stripes of Optic Morphogenesis: Gene Expression Patterning in Zebrafish Development |
+| Ayah Sibai '25 | | The Stripes of Optic Morphogenesis: Gene Expression Patterning in Zebrafish Development |
 | Soren Zapata '25 | | Untangling the Threads between Climate Change and Foodborne Disease |
 | Aliya Ghassaei '24 |  | Leveraging Comparative Graph Theory to Model Gene Co-expression Data |
 | Ainsley Norman '24 | Jeremy Coate | Seurat & Suffering: Identification of Endoreduplication Using Computational Methods in Soybean Nodules | 

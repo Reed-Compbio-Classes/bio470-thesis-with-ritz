@@ -27,13 +27,5 @@ Requires the [pandoc](https://pandoc.org/installing.html) tool.
 Concatenates all the files in the order that they are shown on the left-hand banner on the website. 
 
 ```
-pandoc index.md \
-    doc/goals.md \
-    doc/support.md \
-    doc/policies.md \
-    doc/assessment.md \ 
-    -o bio470-F24-syllabus.pdf \
-    -M title="Thesis with Ritz Fall 2024 Syllabus"
+pandoc index.md doc/logistics.md doc/milestones.md doc/previous-theses.md doc/project-ideas.md -o doc/archive/bio470-F25-syllabus.pdf -M title="Thesis with Ritz Fall 2025 Syllabus"
 ``` 
-
-Then, move the file to `doc/archive/`.
