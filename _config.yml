@@ -89,7 +89,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Dept Moodle Page": https://moodle.reed.edu/course/view.php?id=6302
+  "Dept Moodle Page": https://moodle.reed.edu/course/view.php?id=6855
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
